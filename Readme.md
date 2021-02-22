@@ -3,7 +3,7 @@
 <p>Projeto de software que roda um jogo da velha simples utilizando o padrão MVC (Model-View-Controller)</p>
 <h2>📋 Regras de négocio</h2>
 <ul>
-    <li>Deve serguir as regras já conhecidas de um jogo da velha tradicional</li>
+    <li>Deve seguir as regras já conhecidas de um jogo da velha tradicional</li>
     <li>Pode ser reiniciado a qualquer momento</li>
 </ul>
 
